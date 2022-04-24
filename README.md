@@ -41,9 +41,8 @@ LeetCode Solution in Java
 ## Linked List
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](link-list/merge-two-sorted-lists/merge-two-sorted-lists.c)|EASY|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](link-list/Merge\ Two\ Sorted\ Lists/merge-two-sorted-list.c)|EASY|
 
-https://leetcode.com/problems/merge-two-sorted-lists/
 
 ## Hash Table
 
