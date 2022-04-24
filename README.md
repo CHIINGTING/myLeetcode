@@ -23,3 +23,8 @@ LeetCode Solution in Java
 - [Dynamic Programming](#dynamic-programming)
 - [Trie](#trie)
 - [Design](#design)
+
+## Math
+
+
+
