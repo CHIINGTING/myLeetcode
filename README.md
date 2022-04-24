@@ -38,7 +38,7 @@ LeetCode Solution in Java
 ## String
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C](string/longest-common-prefix/longest-common-prefix.cpp)|EASY|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C](string/longest-common-prefix/longest-common-prefix.c)|EASY|
 
 ## Double pointer
 
