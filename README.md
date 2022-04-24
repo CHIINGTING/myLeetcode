@@ -6,7 +6,7 @@
 LeetCode Solution in Java
 
 ## Topics
-- [Math](#math)
+- [Math]()
 - [Bit](#bit)
 - [Linked List](#linked-list)
 - [Hash Table](#hash-table)
