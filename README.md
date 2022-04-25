@@ -1,7 +1,7 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-3-green)&nbsp;
-![](https://img.shields.io/badge/EASY-3-orange)&nbsp;
+![](https://img.shields.io/badge/SOLVED-5-green)&nbsp;
+![](https://img.shields.io/badge/EASY-5-orange)&nbsp;
 ![](https://img.shields.io/badge/MEDIUM-0-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
@@ -30,6 +30,7 @@ LeetCode Solution in C
 ## Math
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)|EASY|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](math/remove-element/remove-element.c)|EASY|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](math/binary-search/binary-search.c)|EASY|
 
