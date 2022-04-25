@@ -30,6 +30,7 @@ LeetCode Solution in Java
 ## Math
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](math/binary-search/binary-search.c)|EASY|
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
