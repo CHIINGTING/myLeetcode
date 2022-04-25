@@ -1,7 +1,7 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-5-green)&nbsp;
-![](https://img.shields.io/badge/EASY-5-orange)&nbsp;
+![](https://img.shields.io/badge/SOLVED-6-green)&nbsp;
+![](https://img.shields.io/badge/EASY-6-orange)&nbsp;
 ![](https://img.shields.io/badge/MEDIUM-0-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
@@ -48,6 +48,7 @@ LeetCode Solution in C
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](link-list/Merge-Two-Sorted-Lists/merge-two-sorted-list.c)|EASY|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C](link-list/remove-linked-list-elements/remove-linked-list-elements.c)|EASY|
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
