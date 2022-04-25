@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/MEDIUM-0-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
-LeetCode Solution in Java
+LeetCode Solution in C
 
 ## Topics
 - [Math](#math)
@@ -30,6 +30,7 @@ LeetCode Solution in Java
 ## Math
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](math/remove-element/remove-element.c)|EASY|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](math/binary-search/binary-search.c)|EASY|
 
 <div>
