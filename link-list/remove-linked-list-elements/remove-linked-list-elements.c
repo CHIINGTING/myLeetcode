@@ -7,19 +7,12 @@
  */
 struct ListNode* removeElements(struct ListNode* head, int val){
     struct ListNode **current = &head;
-    struct ListNode * deleteNode;
-
     while(*current){
-        while((*current)->val == val){
-            deleteNode = *current;
+        if((*current)->val == val){
             *current = (*current) -> next;
-            free(deleteNode);
-            if(!*current){
-                return head;
-            }
-            
         }
-        current = &(*current)->next;
+        else
+            current = &(*current) -> next;
     }
     return head;
 }
