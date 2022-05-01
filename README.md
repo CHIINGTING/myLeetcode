@@ -1,8 +1,8 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-6-green)&nbsp;
+![](https://img.shields.io/badge/SOLVED-7-green)&nbsp;
 ![](https://img.shields.io/badge/EASY-6-orange)&nbsp;
-![](https://img.shields.io/badge/MEDIUM-0-red)&nbsp;
+![](https://img.shields.io/badge/MEDIUM-1-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
 LeetCode Solution in C
@@ -49,6 +49,7 @@ LeetCode Solution in C
 |:-:|-|-|-|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](link-list/Merge-Two-Sorted-Lists/merge-two-sorted-list.c)|EASY|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C](link-list/remove-linked-list-elements/remove-linked-list-elements.c)|EASY|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C](link-list/design-linked-list/design-linked-list.c)|MEDIUM|
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
