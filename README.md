@@ -1,7 +1,7 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-9-green)&nbsp;
-![](https://img.shields.io/badge/EASY-7-orange)&nbsp;
+![](https://img.shields.io/badge/SOLVED-10-green)&nbsp;
+![](https://img.shields.io/badge/EASY-8-orange)&nbsp;
 ![](https://img.shields.io/badge/MEDIUM-2-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
@@ -58,7 +58,9 @@ LeetCode Solution in C
 </div>
 
 ## Hash Table
-
+| # | Title | Solution | Difficulty |
+|:-:|-|-|-|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C](hash-table/valid-anagram/valid-anagram.c)|EASY|
 
 ## String
 | # | Title | Solution | Difficulty |
