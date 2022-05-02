@@ -1,8 +1,8 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-8-green)&nbsp;
+![](https://img.shields.io/badge/SOLVED-9-green)&nbsp;
 ![](https://img.shields.io/badge/EASY-7-orange)&nbsp;
-![](https://img.shields.io/badge/MEDIUM-1-red)&nbsp;
+![](https://img.shields.io/badge/MEDIUM-2-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
 LeetCode Solution in C
@@ -48,6 +48,7 @@ LeetCode Solution in C
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](link-list/Merge-Two-Sorted-Lists/merge-two-sorted-list.c)|EASY|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C](link-list/swap-nodes-in-pairs/swap-nodes-in-pairs.c)|MEDIUM|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C](link-list/remove-linked-list-elements/remove-linked-list-elements.c)|EASY|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)|[C](link-list/reverse-linked-list/reverse-linked-list.c)|EASY|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C](link-list/design-linked-list/design-linked-list.c)|MEDIUM|
