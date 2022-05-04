@@ -1,7 +1,7 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-11-green)&nbsp;
-![](https://img.shields.io/badge/EASY-9-orange)&nbsp;
+![](https://img.shields.io/badge/SOLVED-12-green)&nbsp;
+![](https://img.shields.io/badge/EASY-10-orange)&nbsp;
 ![](https://img.shields.io/badge/MEDIUM-2-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
@@ -61,7 +61,10 @@ LeetCode Solution in C
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C](hash-table/valid-anagram/valid-anagram.c)|EASY|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C](hash-table/intersection-of-two-arrays/intersection-of-two-arrays.c)|EASY|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[C](hash-table/find-common-characters/find-common-characters.c)|EASY|
+
+
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
 </div>
