@@ -8,7 +8,6 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     Map *map = NULL, *elem, *tmp;
     int *result = malloc(2 * sizeof(int));
     int array[numsSize];
-    bool check=true;
     
     // numsSize
     for (int i = 0; i < numsSize; i++) {
