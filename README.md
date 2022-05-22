@@ -60,6 +60,7 @@ LeetCode Solution in C
 ## Hash Table
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
+|1|[2-sum](https://leetcode.com/problems/two-sum/)|[C](/hash-table/2-sum/2-sum.c)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C](hash-table/valid-anagram/valid-anagram.c)|EASY|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C](hash-table/intersection-of-two-arrays/intersection-of-two-arrays.c)|EASY|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[C](hash-table/find-common-characters/find-common-characters.c)|EASY|
