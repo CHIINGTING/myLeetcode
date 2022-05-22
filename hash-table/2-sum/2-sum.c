@@ -7,20 +7,19 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     *returnSize = 2;
     Map *map = NULL, *elem, *tmp;
     int *result = malloc(2 * sizeof(int));
-    int array[numsSize];
-    
     // numsSize
     for (int i = 0; i < numsSize; i++) {
         elem = malloc(sizeof(Map));
         elem->key = nums[i];
         elem->intersect = i;
         HASH_ADD_INT(map, key, elem);
-        array[i] = target -  nums[i];
     }
-    
+    int *test = malloc(sizeof(int));
+    //find value
     for (int i = 0; i < numsSize; i++) {
         elem = NULL;
-        HASH_FIND_INT(map, &array[i], elem);
+        *test = target - nums[i];
+        HASH_FIND_INT(map, test, elem);
         if (elem) {
             if(i == elem->intersect){
                 continue;
