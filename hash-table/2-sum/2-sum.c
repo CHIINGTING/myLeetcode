@@ -31,7 +31,6 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
                 result[1] = elem->intersect;
                 return result;
             }
-            
         }
     }
     return NULL;
