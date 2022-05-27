@@ -1,7 +1,7 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-14-green)&nbsp;
-![](https://img.shields.io/badge/EASY-11-orange)&nbsp;
+![](https://img.shields.io/badge/SOLVED-15-green)&nbsp;
+![](https://img.shields.io/badge/EASY-12-orange)&nbsp;
 ![](https://img.shields.io/badge/MEDIUM-3-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
@@ -88,7 +88,13 @@ LeetCode Solution in C
 
 
 ## Tree
+| # | Title | Solution | Difficulty |
+|:-:|-|-|-|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)|[C]()|EASY|
 
+<div>
+  <b><a href="#topics">↥ Back To Top</a></b>
+</div>
 
 ## Heap
 
