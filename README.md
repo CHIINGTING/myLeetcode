@@ -1,7 +1,7 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-15-green)&nbsp;
-![](https://img.shields.io/badge/EASY-12-orange)&nbsp;
+![](https://img.shields.io/badge/SOLVED-17-green)&nbsp;
+![](https://img.shields.io/badge/EASY-14-orange)&nbsp;
 ![](https://img.shields.io/badge/MEDIUM-3-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)
 
