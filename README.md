@@ -75,7 +75,7 @@ LeetCode Solution in C
 ## String
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C](string/longest-common-prefix/longest-common-prefix.c)|EASY|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C](/tree/Binary%20Tree%20Preorder%20Traversal/Binary-Tree-Preorder-Traversal.c)|EASY|
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
