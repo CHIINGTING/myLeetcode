@@ -92,6 +92,7 @@ LeetCode Solution in C
 |:-:|-|-|-|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C](/tree/Binary%20Tree%20Inorder%20Traversal/Binary-Tree-Inorder-Traversal.c)|EASY|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)|[C](/tree/Binary%20Tree%20Preorder%20Traversal/Binary-Tree-Preorder-Traversal.c)|EASY|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C](/tree/Binary%20Tree%20Postorder%20Traversal/Binary-Tree-Postorder-Traversal.c)|EASY|
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
