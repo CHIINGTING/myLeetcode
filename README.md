@@ -1,7 +1,7 @@
 # myLeetcode
 
-![](https://img.shields.io/badge/SOLVED-17-green)&nbsp;
-![](https://img.shields.io/badge/EASY-14-orange)&nbsp;
+![](https://img.shields.io/badge/SOLVED-18-green)&nbsp;
+![](https://img.shields.io/badge/EASY-15-orange)&nbsp;
 ![](https://img.shields.io/badge/MEDIUM-3-red)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C-blue)&nbsp;
 ![](https://img.shields.io/badge/LANGUAGE-C%2B%2B-9cf)
@@ -33,7 +33,7 @@ LeetCode Solution in C
 |:-:|-|-|-|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)|EASY|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](math/remove-element/remove-element.c)|EASY|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|||
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](math/move-element/move-element.c)|EASY|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](math/binary-search/binary-search.c)|EASY|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|||
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|||
