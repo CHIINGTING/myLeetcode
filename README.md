@@ -117,5 +117,5 @@ LeetCode Solution in C
 ## Dynamic Programming
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C](/tree/Binary%20Tree%20Inorder%20Traversal/Binary-Tree-Inorder-Traversal.c)|EASY|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C](/Dynamic-Programming/climbing-stairs.c)|EASY|
 
