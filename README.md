@@ -94,7 +94,7 @@ LeetCode Solution in C
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C](/tree/Binary%20Tree%20Inorder%20Traversal/Binary-Tree-Inorder-Traversal.c)|EASY|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)|[C](/tree/Binary%20Tree%20Preorder%20Traversal/Binary-Tree-Preorder-Traversal.c)|EASY|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C](/tree/Binary%20Tree%20Postorder%20Traversal/Binary-Tree-Postorder-Traversal.c)|EASY|
-|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes//)|[C](/tree/Count%20Complete%20Tree%20Nodes)|EASY|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes//)|[C](/tree/%20Count%20Complete%20Tree%20Nodes/%20CountCompleteTreeNodes.c)|EASY|
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
