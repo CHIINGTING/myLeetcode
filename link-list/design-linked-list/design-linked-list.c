@@ -6,7 +6,7 @@ typedef struct {
 /** Initialize your data structure here. */
 
 MyLinkedList* myLinkedListCreate() {
-    //这个题必须用虚拟头指针,参数都是一级指针,头节点确定后没法改指向了!!!
+    //必須pointer to pointer, pointer head不改變
     MyLinkedList* head = (MyLinkedList *)malloc(sizeof (MyLinkedList));
     head->next = NULL;
     return head;
