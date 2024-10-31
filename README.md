@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/LANGUAGE-C%2B%2B-9cf)
 
 LeetCode Solution in C
+![img.png](img.png)
 
 ## Topics
 - [Math](#math)
