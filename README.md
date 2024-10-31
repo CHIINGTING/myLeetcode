@@ -61,7 +61,7 @@ LeetCode Solution in C
 ## Hash Table
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|1|[2-sum](https://leetcode.com/problems/two-sum/)|[C](/hash-table/2-sum/2-sum.c)<br>[py](/hash-table/2-sum/2-sum.py|EASY|
+|1|[2-sum](https://leetcode.com/problems/two-sum/)|[C](/hash-table/2-sum/2-sum.c) <br> [py](/hash-table/2-sum/2-sum.py|EASY|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C](hash-table/valid-anagram/valid-anagram.c)|EASY|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C](hash-table/intersection-of-two-arrays/intersection-of-two-arrays.c)|EASY|
 |454|[4 sum II](https://leetcode.com/problems/4sum-ii/)|[C](/hash-table/4sumII/4sumII.c)|MEDIUM|
