@@ -32,13 +32,13 @@ LeetCode Solution in C
 ## Arrays
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|1|[2-sum](https://leetcode.com/problems/two-sum/)| [py](/hash-table/2-sum/2-sum.py)|EASY|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)<br>[py](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|EASY|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](math/remove-element/remove-element.c)<br>[py](math/remove-element/remove-element.py)|EASY|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](math/move-zeroes/move-zero.c)<br>[py](math/move-zero/move-zero.py)|EASY|
-|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](math/binary-search/binary-search.c)<br>[py](math/binary-search/binary-search.py)|EASY|
-|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[py](math/backspace-string-compare/backspace-string-compare.py)|EASY|
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|||
+|1|[2-sum](https://leetcode.com/problems/two-sum/)| [py](/arrays/2-sum/2-sum.py)|EASY|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)<br>[py](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|EASY|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](arrays/remove-element/remove-element.c)<br>[py](arrays/remove-element/remove-element.py)|EASY|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](arrays/move-zeroes/move-zero.c)<br>[py](arrays/move-zero/move-zero.py)|EASY|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](arrays/binary-search/binary-search.c)<br>[py](arrays/binary-search/binary-search.py)|EASY|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[py](arrays/backspace-string-compare/backspace-string-compare.py)|EASY|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[py](arrays/squares-of-a-sorted-array/squares-of-a-sorted-array.py)|EASY|
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
@@ -63,7 +63,7 @@ LeetCode Solution in C
 ## Hash Table
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|1|[2-sum](https://leetcode.com/problems/two-sum/)|[C](/hash-table/2-sum/2-sum.c) <br> [py](/hash-table/2-sum/2-sum.py)|EASY|
+|1|[2-sum](https://leetcode.com/problems/two-sum/)|[C](/hash-table/2-sum/2-sum.c) <br> [py](/arrays/2-sum/2-sum.py)|EASY|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C](hash-table/valid-anagram/valid-anagram.c)|EASY|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C](hash-table/intersection-of-two-arrays/intersection-of-two-arrays.c)|EASY|
 |454|[4 sum II](https://leetcode.com/problems/4sum-ii/)|[C](/hash-table/4sumII/4sumII.c)|MEDIUM|
