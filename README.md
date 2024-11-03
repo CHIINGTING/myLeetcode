@@ -33,7 +33,7 @@ LeetCode Solution in C
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)<br>[py](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|EASY|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](math/remove-element/remove-element.c)|EASY|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](math/remove-element/remove-element.c)<br>|[py](math/remove-element/remove-element.py)|EASY|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](math/move-element/move-element.c)|EASY|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](math/binary-search/binary-search.c)|EASY|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|||
