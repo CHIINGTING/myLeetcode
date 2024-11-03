@@ -39,7 +39,7 @@ LeetCode Solution in C
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](arrays/binary-search/binary-search.c)<br>[py](arrays/binary-search/binary-search.py)|EASY|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[py](arrays/backspace-string-compare/backspace-string-compare.py)|EASY|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[py](arrays/squares-of-a-sorted-array/squares-of-a-sorted-array.py)|EASY|
-
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)|[py](arrays/merge-strings-alternately/merge-strings-alternately.py)|EASY|
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
 </div>
