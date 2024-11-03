@@ -10,7 +10,7 @@ LeetCode Solution in C
 ![img.png](img.png)
 
 ## Topics
-- [Math](#math)
+- [Arrays](#arrays)
 - [Bit](#bit)
 - [Linked List](#linked-list)
 - [Hash Table](#hash-table)
@@ -29,9 +29,10 @@ LeetCode Solution in C
   <b><a href="#topics">↥ Back To Top</a></b>
 </div>
 
-## Math
+## Arrays
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
+|1|[2-sum](https://leetcode.com/problems/two-sum/)| [py](/hash-table/2-sum/2-sum.py)|EASY|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)<br>[py](math/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|EASY|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](math/remove-element/remove-element.c)<br>[py](math/remove-element/remove-element.py)|EASY|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](math/move-zeroes/move-zero.c)<br>[py](math/move-zero/move-zero.py)|EASY|
