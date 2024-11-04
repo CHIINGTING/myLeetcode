@@ -36,7 +36,7 @@ LeetCode Solution in C
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)<br>[py](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|EASY|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](arrays/remove-element/remove-element.c)<br>[py](arrays/remove-element/remove-element.py)|EASY|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[py](arrays/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py)|EASY|
-|217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[py](arrays/contains-duplicate/contains-duplicate.py)||EASY
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[py](arrays/contains-duplicate/contains-duplicate.py)||EASY
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](arrays/move-zeroes/move-zero.c)<br>[py](arrays/move-zero/move-zero.py)|EASY|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](arrays/binary-search/binary-search.c)<br>[py](arrays/binary-search/binary-search.py)|EASY|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[py](arrays/backspace-string-compare/backspace-string-compare.py)|EASY|
