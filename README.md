@@ -37,7 +37,8 @@ LeetCode Solution in C
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](arrays/remove-element/remove-element.c)<br>[py](arrays/remove-element/remove-element.py)|EASY|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[py](arrays/maximum-subarray/maximum-subarray.py)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[py](arrays/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py)|EASY|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[py](arrays/contains-duplicate/contains-duplicate.py)||EASY|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[py](arrays/maximum-product-subarray/maximum-product-subarray.py)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[py](arrays/contains-duplicate/contains-duplicate.py)|EASY|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[py](arrays/product-of-array-except-self/product-of-array-except-self.py)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](arrays/move-zeroes/move-zero.c)<br>[py](arrays/move-zero/move-zero.py)|EASY|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C](arrays/binary-search/binary-search.c)<br>[py](arrays/binary-search/binary-search.py)|EASY|
