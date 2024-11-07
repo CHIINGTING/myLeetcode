@@ -38,6 +38,7 @@ LeetCode Solution in C
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[py](arrays/maximum-subarray/maximum-subarray.py)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[py](arrays/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py)|EASY|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[py](arrays/maximum-product-subarray/maximum-product-subarray.py)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[py](arrays/find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.py)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[py](arrays/contains-duplicate/contains-duplicate.py)|EASY|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[py](arrays/product-of-array-except-self/product-of-array-except-self.py)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](arrays/move-zeroes/move-zero.c)<br>[py](arrays/move-zero/move-zero.py)|EASY|
