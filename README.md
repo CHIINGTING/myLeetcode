@@ -35,9 +35,10 @@ LeetCode Solution in C
 |1|[2-sum](https://leetcode.com/problems/two-sum/)| [py](/arrays/2-sum/2-sum.py)|EASY|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)<br>[py](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|EASY|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](arrays/remove-element/remove-element.c)<br>[py](arrays/remove-element/remove-element.py)|EASY|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[py](arrays/search-in-rotated-sorted-array/search-in-rotated-sorted-array.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[py](arrays/maximum-subarray/maximum-subarray.py)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[py](arrays/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py)|EASY|
-|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[py](arrays/maximum-product-subarray/maximum-product-subarray.py)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[py](arrays/maximum-product-subarray/maximum-product-subarray.py)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[py](arrays/find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.py)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[py](arrays/contains-duplicate/contains-duplicate.py)|EASY|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[py](arrays/product-of-array-except-self/product-of-array-except-self.py)|Medium|
@@ -84,6 +85,7 @@ LeetCode Solution in C
 ## String
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
+|5|[Longest Palindromic Substring]
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C](/tree/Binary%20Tree%20Preorder%20Traversal/Binary-Tree-Preorder-Traversal.c)|EASY|
 
 <div>
