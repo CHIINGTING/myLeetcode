@@ -33,6 +33,7 @@ LeetCode Solution in C
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
 |1|[2-sum](https://leetcode.com/problems/two-sum/)| [py](/arrays/2-sum/2-sum.py)|EASY|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[py](arrays/container-with-most-water/container-with-most-water.py|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)<br>[py](arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|EASY|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](arrays/remove-element/remove-element.c)<br>[py](arrays/remove-element/remove-element.py)|EASY|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[py](arrays/search-in-rotated-sorted-array/search-in-rotated-sorted-array.py)|Medium|
