@@ -135,8 +135,21 @@ LeetCode Solution in C
 |322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[py](/Dynamic-Programing/coin-change/coin-change.py)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[py](/Dynamic-Programing/longest-common-subsequence/longest-common-subsequence.py)|Medium|
 
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+<div>
+  <b><a href="#topics">↥ Back To Top</a></b>
+</div>
+
 
 ## Algorithm
 | Algorithm | Solution | Proposal |
 |-|-|-|
-|動態規劃|在處理字串、數列或序列相關的問題時，計算兩個序列的相似性或關係。<br><li> 最長公共子序列（LCS</li><br><li> 編輯距離（Edit Distance）</li><br><li> 最長遞增子序列（LIS）</li>||
+|動態規劃|在處理字串、數列或序列相關的問題時，計算兩個序列的相似性或關係。<br><li> 最長公共子序列（LCS</li><br><li> 編輯距離（Edit Distance）</li><br><li> 最長遞增子序列（LIS）</li><br>路徑優化問題<br>分割與組合問題<br><li>01 背包問題</li><br>數學與計算問題<br><li>費波那契數列</li>||
+
+
+
+<div>
+  <b><a href="#topics">↥ Back To Top</a></b>
+</div>
