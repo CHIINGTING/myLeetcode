@@ -130,7 +130,9 @@ LeetCode Solution in C
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[py](/Dynamic-Programming/longest-palindromic-substring/longest-palindromic-substring.py)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[py](/Dynamic-Programming/combination-sum/combination-sum.py)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C](/Dynamic-Programming/climbing-stairs/climbing-stairs.c)<br>[py](/Dynamic-Programming/climbing-stairs/climbing-stairs.py)|EASY|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[py](/Dynamic-Programming/word-break/word-break.py)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[py](/Dynamic-Programming/longest-increasing-subsequence.py)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[py](/Dynamic-Programing/coin-change/coin-change.py)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[py](/Dynamic-Programing/longest-common-subsequence/longest-common-subsequence.py)|Medium|
@@ -149,6 +151,7 @@ LeetCode Solution in C
 |動態規劃|在處理字串、數列或序列相關的問題時，計算兩個序列的相似性或關係。<br><li> 最長公共子序列（LCS)</li><br><li> 編輯距離（Edit Distance）</li><br><li> 最長遞增子序列（LIS）</li><br>路徑優化問題<br>分割與組合問題<br><li>01 背包問題</li><br>數學與計算問題<br><li>費波那契數列</li>||
 |Kadane's |最大子陣列和問題<br><li>$$dp[i] = \max(nums[i], dp[i-1] + nums[i])$$ </li> ||
 |歸納法|踩樓梯問題:<br><li>$$(dp[i]=dp[i−1]+dp[i−2])$$</li><br>硬幣總和問題:<br><li>$$(dp[i]=min(dp[i],dp[i−coin]+1) ∀ coin in coins$$</li><br>硬幣組合:<br><li>$$(dp[i]=dp[i]+dp[i−coin])$$</li>||
+|Backtracking(回朔法)|Combination Sum 問題||
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
