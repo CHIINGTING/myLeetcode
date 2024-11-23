@@ -129,5 +129,14 @@ LeetCode Solution in C
 ## Dynamic Programming
 | # | Title | Solution | Difficulty |
 |:-:|-|-|-|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C](/Dynamic-Programming/climbing-stairs.c)|EASY|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[py](/Dynamic-Programming/longest-palindromic-substring/longest-palindromic-substring.py)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C](/Dynamic-Programming/climbing-stairs/climbing-stairs.c)<br>[py](/Dynamic-Programming/climbing-stairs/climbing-stairs.py)|EASY|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[py](/Dynamic-Programming/longest-increasing-subsequence.py)|Medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[py](/Dynamic-Programing/coin-change/coin-change.py)|Medium|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[py](/Dynamic-Programing/longest-common-subsequence/longest-common-subsequence.py)|Medium|
 
+
+## Algorithm
+| Algorithm | Solution | Proposal |
+|-|-|-|
+|動態規劃|在處理字串、數列或序列相關的問題時，計算兩個序列的相似性或關係。<br><li> 最長公共子序列（LCS</li><br><li> 編輯距離（Edit Distance）</li><br><li> 最長遞增子序列（LIS）</li>||
