@@ -148,7 +148,7 @@ LeetCode Solution in C
 |-|-|-|
 |動態規劃|在處理字串、數列或序列相關的問題時，計算兩個序列的相似性或關係。<br><li> 最長公共子序列（LCS)</li><br><li> 編輯距離（Edit Distance）</li><br><li> 最長遞增子序列（LIS）</li><br>路徑優化問題<br>分割與組合問題<br><li>01 背包問題</li><br>數學與計算問題<br><li>費波那契數列</li>||
 |Kadane's |最大子陣列和問題<br><li>$$dp[i] = \max(nums[i], dp[i-1] + nums[i])$$ </li> ||
-
+|歸納法|踩樓梯問題:<br><li>$$(dp[i]=dp[i−1]+dp[i−2])$$</li><br>硬幣總和問題:<br><li>$$ dp[i]=min(dp[i],dp[i−coin]+1)∀coin in coins $$</li><br>硬幣組合:<br><li>$$ dp[i]=dp[i]+dp[i−coin] $$</li>||
 
 <div>
   <b><a href="#topics">↥ Back To Top</a></b>
